@@ -1,6 +1,6 @@
 {
   "name": "@purpleads/sqs-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Node.js SQS client with some power functions like queue sending and batch delete",
   "main": "SQS.js",
   "scripts": {
