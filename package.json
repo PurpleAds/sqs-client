@@ -1,0 +1,25 @@
+{
+  "name": "@purpleads/sqs-client",
+  "version": "1.0.0",
+  "description": "A simple Node.js SQS client with some power functions like queue sending and batch delete",
+  "main": "SQS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleAds/sqs-client.git"
+  },
+  "keywords": [
+    "sqs",
+    "aws",
+    "message",
+    "queue"
+  ],
+  "author": "PurpleAds Network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PurpleAds/sqs-client/issues"
+  },
+  "homepage": "https://github.com/PurpleAds/sqs-client#readme"
+}
