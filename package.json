@@ -14,12 +14,15 @@
     "sqs",
     "aws",
     "message",
-    "queue"
+    "simple queue service"
   ],
   "author": "PurpleAds Network",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PurpleAds/sqs-client/issues"
   },
-  "homepage": "https://github.com/PurpleAds/sqs-client#readme"
+  "homepage": "https://github.com/PurpleAds/sqs-client#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1028.0"
+  }
 }
